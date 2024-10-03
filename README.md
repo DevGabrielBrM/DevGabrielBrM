@@ -5,7 +5,7 @@
 
 # About Me
 
-Hi, I'm Gabriel Briotto Monteiro. I'm currently studying Analysis and System Development, where I'm honing my skills in software engineering and exploring various technologies. My journey in tech is driven by a passion for problem-solving and a curiosity for how systems work under the hood.
+Hi, I'm Gabriel Briotto Monteiro. I'm currently studying Analysis and System Development, where I'm improving my skills in software engineering and exploring various technologies. My journey in tech is driven by a passion for problem-solving and a curiosity for how systems work under the hood.
 
 
 ## Tools and Technologies
